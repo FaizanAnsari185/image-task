@@ -1,0 +1,14 @@
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    padding: 40px;
+    border-radius: 25px;
+    
+
+}
+.myimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 99999px;
+}
